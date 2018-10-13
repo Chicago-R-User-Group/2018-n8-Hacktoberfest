@@ -1,5 +1,6 @@
-# 2018-n8-Hacktoberfest
-![](https://github.com/Chicago-R-User-Group/2018-n8-Hacktoberfest/tree/master/images)
+# 2018-n8-HacktobeRfest
+
+![](https://github.com/Chicago-R-User-Group/2018-n8-Hacktoberfest/blob/master/images/HacktobeRfest-VennD.png)
 
 We've teamed up with R-Ladies Chicago this month to bring you a joint meetup worth toasting to: *HacktobeRfest* at Haymarket! Special thanks to the incredibly supportive IBM for sponsoring this event.
 
