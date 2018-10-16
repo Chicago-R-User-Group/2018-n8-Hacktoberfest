@@ -8,9 +8,11 @@ We've teamed up with R-Ladies Chicago this month to bring you a joint meetup wor
  5:45-6:00-- NEW! Rtour for beginners
  6:00-6:30 -- Food and drinks, Intros & Announcements
  6:30-7:00 -- Speakers: Stephen Ziliak & Eleanor Chodroff
- 7:00-7:45 -- Beer Data Hack-a-thon
+ 7:00-7:45 -- [Beer Data](https://github.com/Chicago-R-User-Group/2018-n8-Hacktoberfest/tree/master/data) Hack-a-thon (see `data` folder)
  7:45-8:00 -- Lightning Style Presentations by Small Groups [Optional]
 8:00-Until -- Q&A/Socializing/Networking/Hanging out
+
+
 
 ## Speakers
 
