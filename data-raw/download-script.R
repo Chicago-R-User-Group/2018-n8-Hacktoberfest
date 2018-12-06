@@ -10,4 +10,4 @@ save(beerAdvocate, file = "data/beerAdvocate.RData")
 # Data set 2
 install.packages("woodridge")
 library(wooldridge)
-data(a;"alcohol")
+data("alcohol")
